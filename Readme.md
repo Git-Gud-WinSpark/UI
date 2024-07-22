@@ -18,5 +18,3 @@ Repo for UI design and wireframe for WinSpark Hackathon
 - Live previews  
 - Fullscreen mode  
 - Cross platform 
-
-
